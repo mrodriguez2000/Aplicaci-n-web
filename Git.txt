@@ -1,0 +1,14 @@
+$ git init
+
+/* Agregar todo el contenido local */
+$ git add .
+
+/* Descripción para subir a Github */
+$ git commit -m "Nombre"
+
+
+$ git branch -M main
+
+/* Subir al repositorio */
+
+$ git push -u origin main
